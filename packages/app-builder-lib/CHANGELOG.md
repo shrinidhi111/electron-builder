@@ -1,5 +1,13 @@
 # app-builder-lib
 
+## 23.0.10
+
+### Patch Changes
+
+- [#6827](https://github.com/electron-userland/electron-builder/pull/6827) [`fa72861f`](https://github.com/electron-userland/electron-builder/commit/fa72861f6cd2de97d191f1b2bbfddc6edf48ab6d) Thanks [@indutny-signal](https://github.com/indutny-signal)! - fix(nsis): change strings, add translations
+
+* [#6868](https://github.com/electron-userland/electron-builder/pull/6868) [`13b078af`](https://github.com/electron-userland/electron-builder/commit/13b078af8c567d05bbd4bb24db44f38388af4e92) Thanks [@KaminoRyo](https://github.com/KaminoRyo)! - refactor(nsis): make ambiguous types strict for nsis DEFINES
+
 ## 23.0.9
 
 ### Patch Changes

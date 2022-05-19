@@ -1,3 +1,12 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v23.0.9...v) (2022-05-19)
+
+
+### Bug Fixes
+
+* **nsis:** new translations for various strings in nsis messages template ([#6827](https://github.com/electron-userland/electron-builder/issues/6827)) ([fa72861](https://github.com/electron-userland/electron-builder/commit/fa72861f6cd2de97d191f1b2bbfddc6edf48ab6d))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v23.0.8...v) (2022-05-06)
 
 
